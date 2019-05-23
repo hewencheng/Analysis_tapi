@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+.DS_Store
+#the out put package
+MANIFEST
+build/
+#__init__.py

@@ -1,0 +1,7 @@
+#print table in a human-see format
+tabulate==0.8.2
+tornado==5.1.0
+pyaudio==0.2.11
+motor==2.0.0
+pymongo
+pyyaml

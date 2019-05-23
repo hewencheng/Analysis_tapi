@@ -1,0 +1,7 @@
+# 数据库相关配置
+db_key: 'db_set'
+server: 'localhost'
+port: 27017
+db_name: 'asr_val'
+user: 'hewencheng'
+passwd: 'hwc@2019'
